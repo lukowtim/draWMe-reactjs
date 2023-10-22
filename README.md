@@ -71,7 +71,8 @@ npm start
 ## Canvas
 
 <p align="center">
-<canvas style="height:75vh, width:75vw">
+<canvas>
+<h1>testing</h1>
 </canvas>
 </p>
 
