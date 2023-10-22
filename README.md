@@ -71,7 +71,8 @@ npm start
 ## Canvas
 
 <p align="center">
-<img src="./public/assets/canvas-preview.png" alt="canvas" width="800"/>
+<canvas style="height:75vh, width:75vw">
+</canvas>
 </p>
 
 </center>
